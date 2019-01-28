@@ -1,0 +1,30 @@
+{
+  "name": "FFToolsKit",
+  "version": "0.1.2",
+  "summary": "A short description of FFToolsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LiuYimin/FFToolsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LiuYimin": "18355530563@163.com"
+  },
+  "source": {
+    "git": "https://github.com/LiuYimin/FFToolsKit.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFToolsKit/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ],
+    "MBProgressHUD": [
+
+    ]
+  }
+}
